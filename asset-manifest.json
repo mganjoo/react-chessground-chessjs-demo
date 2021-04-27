@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-chessground-chessjs-demo/static/css/main.6a4ffef6.chunk.css",
-    "main.js": "/react-chessground-chessjs-demo/static/js/main.5499648f.chunk.js",
-    "main.js.map": "/react-chessground-chessjs-demo/static/js/main.5499648f.chunk.js.map",
+    "main.js": "/react-chessground-chessjs-demo/static/js/main.91d78341.chunk.js",
+    "main.js.map": "/react-chessground-chessjs-demo/static/js/main.91d78341.chunk.js.map",
     "runtime-main.js": "/react-chessground-chessjs-demo/static/js/runtime-main.59e9f08e.js",
     "runtime-main.js.map": "/react-chessground-chessjs-demo/static/js/runtime-main.59e9f08e.js.map",
     "static/js/2.6df6e558.chunk.js": "/react-chessground-chessjs-demo/static/js/2.6df6e558.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.59e9f08e.js",
     "static/js/2.6df6e558.chunk.js",
     "static/css/main.6a4ffef6.chunk.css",
-    "static/js/main.5499648f.chunk.js"
+    "static/js/main.91d78341.chunk.js"
   ]
 }
